@@ -1,5 +1,5 @@
 # Use Alpine as base
-FROM alpine:3.9.2
+FROM node:10.23.0-alpine3.11
 
 LABEL maintainer = "clayton@lacework.net"
 
