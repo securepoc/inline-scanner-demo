@@ -1,5 +1,5 @@
 # Use Alpine as base
-FROM alpine:3.14
+FROM ubuntu:latest
 
 LABEL maintainer = "clayton@lacework.net"
 
