@@ -1,5 +1,5 @@
 # Use Alpine as base
-FROM alpine:3.16
+FROM alpine:3.9.2
 
 LABEL maintainer = "clayton@lacework.net"
 
