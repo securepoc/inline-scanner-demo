@@ -1,5 +1,5 @@
 # Use Alpine as base
-FROM alpine:3.14
+FROM Ubuntu:16.04
 
 LABEL maintainer = "clayton@lacework.net"
 
