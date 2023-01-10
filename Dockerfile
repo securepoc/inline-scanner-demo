@@ -1,4 +1,4 @@
-# Use Alpine as base
+# Use old-vuln Alpine as base
 FROM node:10.23.0-alpine3.11
 
 LABEL maintainer = "clayton@lacework.net"
