@@ -1,5 +1,5 @@
 # Use old vuln Alpine as base
-FROM node:10.23.0-alpine3.11
+FROM node:10.23.0-alpine2.6
 
 LABEL maintainer = "clayton@lacework.net"
 
