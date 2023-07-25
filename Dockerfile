@@ -1,7 +1,7 @@
 # Use old vuln Alpine as base
 FROM node:10.23.0-alpine3.10
 
-LABEL maintainer = "clayto@lacework.net"
+LABEL maintainer = "clayton@lacework.net"
 
 RUN apk update && \
     apk add curl && \
